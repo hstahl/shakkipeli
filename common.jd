@@ -1,0 +1,34 @@
+-tag .jd.common.internal.comment:X:Argumenttitiedosto_javadocille
+-tag .jd.common.internal.version:X:2013-08-07
+
+-encoding windows-1257
+
+-author
+-keywords
+-linksource
+-private
+-source 1.7
+-version
+
+-tag .toDo:a:To&nbsp;do:
+-tag deprecated
+-tag .classInvariant:t:Class&nbsp;invariant:
+-tag .classInvariantProtected:t:Protected&nbsp;class&nbsp;invariant:
+-tag .classInvariantPrivate:t:Private&nbsp;class&nbsp;invariant:
+-tag .abstractionFunction:t:Abstraction&nbsp;function:
+-tag .pre:cm:Precondition:
+-tag .post:cm:Postcondition:
+-tag .postProtected:cm:Protected&nbsp;postcondition:
+-tag .postPrivate:cm:Private&nbsp;postcondition:
+-tag .time:cmf:Time&nbsp;complexity:
+-tag .space:cmf:Space&nbsp;complexity:
+-tag throws
+-tag param
+-tag return
+-tag see
+-tag author
+-tag .correspondence:a:Correspondence:
+-tag version
+-tag since
+-tag serial
+-tag .download:a:Download:

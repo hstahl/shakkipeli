@@ -1,0 +1,22 @@
+-tag .jd.project.internal.comment:X:Argumenttitiedosto_javadocille
+-tag .jd.project.internal.version:X:2013-08-07
+
+-d docs
+
+-windowtitle 'Shakkipeli'
+-doctitle 'Shakkipeli'
+-bottom '&copy;&nbsp;2013 Henri Ståhl<p align="right">Conforms to Java<sup><small>TM</small></sup> 2 Platform Standard Edition 7.0'
+
+src\fi\utu\harjoitukset\shakkipeli\Shakkipeli.java
+src\fi\utu\harjoitukset\shakkipeli\Nappula.java
+src\fi\utu\harjoitukset\shakkipeli\AbstraktiNappula.java
+src\fi\utu\harjoitukset\shakkipeli\Sotilas.java
+src\fi\utu\harjoitukset\shakkipeli\Lahetti.java
+src\fi\utu\harjoitukset\shakkipeli\Ratsu.java
+src\fi\utu\harjoitukset\shakkipeli\Torni.java
+src\fi\utu\harjoitukset\shakkipeli\Kuningatar.java
+src\fi\utu\harjoitukset\shakkipeli\Kuningas.java
+src\fi\utu\harjoitukset\shakkipeli\Koordinaatit.java
+src\fi\utu\harjoitukset\shakkipeli\TunnistamatonKomentoPoikkeus.java
+src\fi\utu\harjoitukset\shakkipeli\Pelilauta.java
+src\fi\utu\harjoitukset\shakkipeli\package-info.java
